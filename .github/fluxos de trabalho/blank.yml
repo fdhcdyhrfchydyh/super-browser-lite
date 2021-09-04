@@ -1,0 +1,7 @@
+WebBrowser1.GoBack ()
+
+WebBrowser1.GoFoward()
+
+WebBrowser1.Stop()
+
+WebBrowser1.Navigate(TextBox1.Text)
